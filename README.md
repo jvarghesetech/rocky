@@ -55,7 +55,7 @@ Open `web/index.html` in a browser or deploy to GitHub Pages. Click Rocky to go 
 
 ## Inspired By
 
-> "I am happy! You are happy! We are friends!"
+> ""Fist my bump.""
 > — Rocky, *Project Hail Mary* by Andy Weir
 
 ---
